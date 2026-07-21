@@ -1,9 +1,13 @@
 # Malthus
 Food Supply Prediction
-# MORE PHYSICS WITH MATLAB BY DAN GREEN
-# CHAPTER 1 / MATHEMATICS / 1.2 MALTHUS
+
+Python implementation inspired by the concepts presented in
+"More Physics with MATLAB" by Dan Green.
+
+This repository contains my own implementations for learning purposes.
 
 ---
+
 
 **Program Summary:**
 
